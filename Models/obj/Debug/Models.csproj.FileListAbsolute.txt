@@ -1,0 +1,4 @@
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\Models\bin\Debug\Models.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\Models\bin\Debug\Models.pdb
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\Models\obj\Debug\Models.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\Models\obj\Debug\Models.pdb

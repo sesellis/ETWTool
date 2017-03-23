@@ -1,0 +1,9 @@
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWDataService\bin\Debug\ETWDataService.dll
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWDataService\bin\Debug\ETWDataService.pdb
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWDataService\bin\Debug\ETWReader.dll
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWDataService\bin\Debug\ETWReader.pdb
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWDataService\obj\Debug\ETWDataService.csprojResolveAssemblyReference.cache
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWDataService\obj\Debug\ETWDataService.dll
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWDataService\obj\Debug\ETWDataService.pdb
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWDataService\bin\Debug\Models.dll
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWDataService\bin\Debug\Models.pdb

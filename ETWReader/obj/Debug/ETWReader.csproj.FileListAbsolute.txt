@@ -1,0 +1,7 @@
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader\bin\Debug\ETWReader.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader\bin\Debug\ETWReader.pdb
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader\bin\Debug\Models.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader\bin\Debug\Models.pdb
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader\obj\Debug\ETWReader.csprojResolveAssemblyReference.cache
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader\obj\Debug\ETWReader.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader\obj\Debug\ETWReader.pdb

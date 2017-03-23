@@ -1,0 +1,16 @@
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\ETWReader.Tests.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\ETWReader.Tests.pdb
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\ETWReader.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\ETWReader.pdb
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\obj\Debug\ETWReader.Tests.csprojResolveAssemblyReference.cache
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\obj\Debug\ETWReader.Tests.dll
+c:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\obj\Debug\ETWReader.Tests.pdb
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\Models.dll
+C:\Users\Sam\documents\visual studio 2017\Projects\ETWTool\ETWReader.Tests\bin\Debug\Models.pdb
